@@ -27,10 +27,14 @@ body{
     color: white;
     font-size: 20px;
     opacity: .5;
+    cursor: pointer;
 }
 .btn.prev{
     left: 10px;
 }
 .btn.next{
     right:10px;
+}
+.btn:hover{
+    opacity: 1;
 }
