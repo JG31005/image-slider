@@ -4,7 +4,6 @@ const prevE1 = document.querySelector(".prev");
 
 const imgs = document.querySelectorAll("img");
 
-
 const imagecontainerE1 = document.querySelector(".image-container");
 
 let currentimg = 1;
